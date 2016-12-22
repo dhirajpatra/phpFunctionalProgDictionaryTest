@@ -6,4 +6,6 @@ This method takes a string looks up words in a dictionary to calculate a score
 Input: string, dictionary: array
 Dictionary is a key-value mapping using an array, value is the score of a word
 
+## this will show how to use functional programming with lambda and clousres ##
+
 
